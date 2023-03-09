@@ -1,6 +1,17 @@
 ### Hi there 👋
 
+< Hi Waving hand animated gif, I'm Aquib Mahmood />
+harshraj8843  version :2023.03.09
 
+zap Tech Stack
+
+Mysql    
+
+C  C++    JavaScript 
+
+HTML  CSS  Bootstrap   React   Next JS
+
+GitHub  Git  Firebase  Linux  Postman  Visual Studio Code 
 <!-- **786-aquib/786-aquib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
 <!-- Here are some ideas to get you started:
