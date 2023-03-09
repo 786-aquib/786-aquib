@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-< Hi Waving hand animated gif, I'm Aquib Mahmood />
-harshraj8843  version :2023.03.09
+< Hi 👋, I'm Aquib Mahmood />
+  version :2023.03.09
 
-zap Tech Stack
+zap
 
 Mysql    
 
