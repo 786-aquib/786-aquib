@@ -1,7 +1,7 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chawtechsolutions.com%2Fproduct%2Fjava-developer%2F&psig=AOvVaw2nnSS_KDenOe6N67CVpoHW&ust=1678970628829000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKC4rZH73f0CFQAAAAAdAAAAABAJ))]
 <h1 align="center">Hi 👋, I'm Aquib Mahmood</h1>
 <h3 align="center">A passionate Backend developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=786-aquib&label=Profile%20views&color=0e75b6&style=flat" alt="786-aquib" /> </p>
 
