@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=786-aquib" alt="786-aquib" /></a> </p>
 
-- 🌱 I’m currently learning **ExpressJs And Next.Js**
+- 🌱 I’m currently learning **Next.Js**
 
-- 💬 Ask me about **Node,Mongo,React,Javascript**
+- 💬 Ask me about **React, TypeScript, Next.js, Javascript**
 
 - 📫 How to reach me **aquibmahmood106@gmail.com**
 
