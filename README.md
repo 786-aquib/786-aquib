@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aquib Mahmood</h1>
-<h3 align="center">A passionate Frontend developer.</h3>
+<h3 align="center"> Building AI Agents.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=786-aquib&label=Profile%20views&color=0e75b6&style=flat" alt="786-aquib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=786-aquib" alt="786-aquib" /></a> </p>
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **RAG, Vector DB, MCP, AI Agents**
 
-- 💬 Ask me about **React, TypeScript, Next.js, Javascript**
+- 💬 Ask me about **MCP, AI Agents, Python, React, TypeScript, Next.js, Javascript**
 
 - 📫 How to reach me **aquibmahmood106@gmail.com**
 
